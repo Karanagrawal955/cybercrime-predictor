@@ -1,5 +1,5 @@
 {
-  "model_version": "v20261004_182920",
+  "model_version": "v20261004_184934",
   "top1_accuracy": 0.198,
   "top3_accuracy": 0.032,
   "precision_at_3": 0.032,
@@ -8,7 +8,7 @@
   "rmse_minutes": 60.624542624616474,
   "num_train_samples": 4000,
   "num_test_samples": 1000,
-  "trained_at": "2026-10-04T18:29:46.710139",
+  "trained_at": "2026-10-04T18:50:05.884447",
   "note": "METRICS FROM SYNTHETIC DATA ONLY - NOT REPRESENTATIVE OF REAL PERFORMANCE",
   "train_start_date": "2026-07-03T00:12:53",
   "train_end_date": "2026-09-13T09:57:39",
