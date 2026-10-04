@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Database
+data/*.db
+data/app.db
+
+# Models (large binary files)
+data/models/
+*.joblib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Test files generated during testing
+test_endpoints.py
+pytest_cache/
+
+# Data files (keep sample)
+data/real/elliptic/
+data/*.db
