@@ -1,0 +1,17 @@
+{
+  "model_version": "v20261004_182920",
+  "top1_accuracy": 0.198,
+  "top3_accuracy": 0.032,
+  "precision_at_3": 0.032,
+  "mean_lead_time_min": -5.289311515555146,
+  "mae_minutes": 46.27134092362419,
+  "rmse_minutes": 60.624542624616474,
+  "num_train_samples": 4000,
+  "num_test_samples": 1000,
+  "trained_at": "2026-10-04T18:29:46.710139",
+  "note": "METRICS FROM SYNTHETIC DATA ONLY - NOT REPRESENTATIVE OF REAL PERFORMANCE",
+  "train_start_date": "2026-07-03T00:12:53",
+  "train_end_date": "2026-09-13T09:57:39",
+  "test_start_date": "2026-09-13T10:19:38",
+  "test_end_date": "2026-09-30T23:38:47"
+}

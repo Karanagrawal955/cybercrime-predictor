@@ -1,0 +1,22 @@
+lat,lon,name,type,bank,addr_city,addr_state,addr_postcode,operator,network,currency,opening_hours,wheelchair
+19.0760,72.8777,SBI ATM Colaba,atm,State Bank of India,Mumbai,Maharashtra,400005,State Bank of India,,INR,24/7,yes
+19.0896,72.8656,HDFC Bank Fort Branch,bank,HDFC Bank,Mumbai,Maharashtra,400001,HDFC Bank,,INR,10:00-16:00,yes
+19.1136,72.8697,ICICI ATM Nariman Point,atm,ICICI Bank,Mumbai,Maharashtra,400021,ICICI Bank,,INR,24/7,yes
+19.0176,72.8562,PNB ATM Bandra,bank,Punjab National Bank,Mumbai,Maharashtra,400050,Punjab National Bank,,INR,10:00-16:00,yes
+19.0596,72.8295,Axis Bank Andheri,atm,Axis Bank,Mumbai,Maharashtra,400058,Axis Bank,,INR,24/7,yes
+28.6139,77.2090,SBI ATM Connaught Place,atm,State Bank of India,Delhi,Delhi,110001,State Bank of India,,INR,24/7,yes
+28.6289,77.2065,HDFC Bank CP Branch,bank,HDFC Bank,Delhi,Delhi,110001,HDFC Bank,,INR,10:00-16:00,yes
+28.6315,77.2167,ICICI ATM Karol Bagh,atm,ICICI Bank,Delhi,Delhi,110005,ICICI Bank,,INR,24/7,yes
+28.7041,77.1025,PNB ATM Rohini,bank,Punjab National Bank,Delhi,Delhi,110085,Punjab National Bank,,INR,10:00-16:00,yes
+28.5355,77.3910,Axis Bank Dwarka,atm,Axis Bank,Delhi,Delhi,110075,Axis Bank,,INR,24/7,yes
+12.9716,77.5946,SBI ATM MG Road,atm,State Bank of India,Bengaluru,Karnataka,560001,State Bank of India,,INR,24/7,yes
+12.9352,77.6245,HDFC Bank Koramangala,bank,HDFC Bank,Bengaluru,Karnataka,560034,HDFC Bank,,INR,10:00-16:00,yes
+12.9698,77.7500,ICICI ATM Whitefield,atm,ICICI Bank,Bengaluru,Karnataka,560066,ICICI Bank,,INR,24/7,yes
+12.9279,77.6271,PNB ATM Electronic City,bank,Punjab National Bank,Bengaluru,Karnataka,560100,Punjab National Bank,,INR,10:00-16:00,yes
+13.0827,80.2707,SBI ATM Anna Salai,atm,State Bank of India,Chennai,Tamil Nadu,600002,State Bank of India,,INR,24/7,yes
+13.0499,80.2280,HDFC Bank T Nagar,bank,HDFC Bank,Chennai,Tamil Nadu,600017,HDFC Bank,,INR,10:00-16:00,yes
+13.0674,80.2376,ICICI ATM Velachery,atm,ICICI Bank,Chennai,Tamil Nadu,600042,ICICI Bank,,INR,24/7,yes
+13.0067,80.2206,PNB ATM Tambaram,bank,Punjab National Bank,Chennai,Tamil Nadu,600045,Punjab National Bank,,INR,10:00-16:00,yes
+17.3850,78.4867,SBI ATM Hyderabad Central,atm,State Bank of India,Hyderabad,Telangana,500001,State Bank of India,,INR,24/7,yes
+17.4399,78.3483,HDFC Bank Banjara Hills,bank,HDFC Bank,Hyderabad,Telangana,500034,HDFC Bank,,INR,10:00-16:00,yes
+17.4435,78.3916,ICICI ATM Gachibowli,atm,ICICI Bank,Hyderabad,Telangana,500032,ICICI Bank,,INR,24/7,yes

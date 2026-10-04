@@ -1,0 +1,39 @@
+# State-wise weights for synthetic complaint generation
+# Based on NCRB cybercrime statistics (update with real data when available)
+# Format: state: weight (relative proportion of total complaints)
+# Sum of all weights = 1.0
+
+states:
+  Maharashtra: 0.18
+  Uttar Pradesh: 0.15
+  Karnataka: 0.12
+  Delhi: 0.10
+  Tamil Nadu: 0.09
+  Telangana: 0.08
+  West Bengal: 0.07
+  Gujarat: 0.06
+  Rajasthan: 0.05
+  Haryana: 0.04
+  Bihar: 0.03
+  Jharkhand: 0.02
+  Other: 0.01
+
+# Channel mix by state (optional override)
+# If not specified, global channel mix is used
+channel_mix_by_state:
+  Maharashtra: {ATM: 0.5, AePS: 0.3, Crypto: 0.2}
+  Delhi: {ATM: 0.6, AePS: 0.2, Crypto: 0.2}
+  Karnataka: {ATM: 0.4, AePS: 0.4, Crypto: 0.2}
+  Uttar Pradesh: {ATM: 0.55, AePS: 0.35, Crypto: 0.1}
+
+# Fraud type distribution by state (optional)
+fraud_type_by_state:
+  Maharashtra: {UPI Fraud: 0.3, Investment Scam: 0.25, Digital Arrest: 0.2, Loan App Harassment: 0.15, Phishing: 0.1}
+  Delhi: {UPI Fraud: 0.35, Investment Scam: 0.2, Digital Arrest: 0.25, Loan App Harassment: 0.1, Phishing: 0.1}
+
+# City weights within state (optional, for intra-state distribution)
+city_weights:
+  Maharashtra: {Mumbai: 0.4, Pune: 0.3, Nashik: 0.15, Nagpur: 0.1, Other: 0.05}
+  Delhi: {Delhi: 1.0}
+  Karnataka: {Bengaluru: 0.7, Mysuru: 0.15, Hubballi: 0.1, Other: 0.05}
+  Uttar Pradesh: {Lucknow: 0.3, Kanpur: 0.25, Noida: 0.2, Ghaziabad: 0.15, Other: 0.1}
